@@ -1,0 +1,24 @@
+01 Samuel Serra Gutierrez Piloto AA A111 A444
+02 Bruno Marquez Cabrera Piloto UA
+03 Isaac Gonzalez Pascual Piloto AM
+04 Noa Marti Carmona Piloto AA A333
+05 Gabriela Bosch Santana Piloto UA
+06 Jana Martinez Prieto Piloto AM
+07 Isabel Sole Castillo Azafata AA A111 A222
+08 Iria Duran Crespo Azafata AA
+09 Sandra Peña Pastor Azafata AA
+10 Érika Cano Gonzalez Azafata UA
+11 Lidia Flores Carmona Azafata UA
+12 Érika Iglesias Duran Azafata UA
+13 Silvia Gonzalez Aguilar Azafata AM
+14 Lara Ramirez Santos Azafata AM
+15 Aitana Mora Lopez Azafata AM
+16 José Garrido Ruiz Azafata AA
+17 Santiago Perez Vicente Azafata AA A111
+18 Pau Blanco Peña Azafata AA
+19 Eduardo Ferrer Saez Azafata UA
+20 Izán Rodriguez Mendez Azafata UA
+21 Aaron Sala Mendez Azafata UA
+22 Juan Hidalgo Torres Azafata AM
+23 Pablo Hernandez Campos Azafata AM
+24 Iván Segura Gutierrez Azafata AM

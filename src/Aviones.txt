@@ -1,0 +1,9 @@
+a boeing dreamliner 787 AM 280
+b boeing 737 800 AM 170
+c embraer EMB 175 AM 76
+d boeing 777 300ER AA 304
+e crj crj 700 AA 76
+f erj erj 190 AA 99
+g boeing 767 400ER UA 240
+h airbus 320 320 UA 150
+i embraer EMB 145 UA 50

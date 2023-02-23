@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1575331489 source:c:\users\tec mont\desktop\semestre 1\semanas 13-17\pensamiento computacional orientado a objetos\proyecto integrador\proyecto integrador\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<fstream>
+	"Vuelo.h"
+	"Tiempo.h"
+	"Tripulacion.h"
+	"Aviones.h"
+	"Pasageros.h"
+
+1575308201 c:\users\tec mont\desktop\semestre 1\semanas 13-17\pensamiento computacional orientado a objetos\proyecto integrador\proyecto integrador\vuelo.h
+	<fstream>
+	"Aviones.h"
+	"Tiempo.h"
+
+1575038351 c:\users\tec mont\desktop\semestre 1\semanas 13-17\pensamiento computacional orientado a objetos\proyecto integrador\proyecto integrador\tiempo.h
+	<cmath>
+
+1574714348 c:\users\tec mont\desktop\semestre 1\semanas 13-17\pensamiento computacional orientado a objetos\proyecto integrador\proyecto integrador\vuelos.txt
+
+1575342062 c:\users\tec mont\desktop\semestre 1\semanas 13-17\pensamiento computacional orientado a objetos\proyecto integrador\proyecto integrador\tripulacion.h
+	<fstream>
+
+1574965104 c:\users\tec mont\desktop\semestre 1\semanas 13-17\pensamiento computacional orientado a objetos\proyecto integrador\proyecto integrador\aviones.h
+
+1575039290 c:\users\tec mont\desktop\semestre 1\semanas 13-17\pensamiento computacional orientado a objetos\proyecto integrador\proyecto integrador\pasageros.h
+

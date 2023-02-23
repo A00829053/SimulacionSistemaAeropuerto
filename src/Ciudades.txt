@@ -1,0 +1,5 @@
+MTY Monterrey
+MEX Ciudad de Mexico
+HOU Houston
+DAL Dallas
+AUS Austin
